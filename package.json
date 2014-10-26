@@ -1,0 +1,22 @@
+{
+  "name": "node-kdt",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "urllib": "*",
+    "moment": "*",
+    "nodemailer": "0.7.1",
+    "lodash": "*",
+    "cron": "*",
+    "redis": "0.12.1"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "~0.10.x",
+    "npm": "*"
+  }
+}
