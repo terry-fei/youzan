@@ -1,22 +1,26 @@
 {
   "name": "node-kdt",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.1.0",
+  "description": "nodejs sdk for koudaitong.com",
   "scripts": {
-    "start": "node app.js"
+    "test": "make test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ifeiteng/node-kdt.git"
+  },
+  "keywords": [
+    "koudaitong",
+    "kdt",
+    "口袋通"
+  ],
   "dependencies": {
     "urllib": "*",
+    "formstream": "*",
     "moment": "*",
-    "nodemailer": "0.7.1",
     "lodash": "*",
-    "cron": "*",
-    "redis": "0.12.1"
   },
-  "devDependencies": {
-  },
-  "engines": {
-    "node": "~0.10.x",
-    "npm": "*"
-  }
+  "author": "ifeiteng",
+  "license": "MIT",
+  "readmeFilename": "README.md",
 }
