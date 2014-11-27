@@ -1,3 +1,1 @@
-var kdt = require('./lib/kdt');
-
-module.exports = kdt;
+module.exports = require('./lib/kdt');
