@@ -18,9 +18,9 @@
     "urllib": "*",
     "formstream": "*",
     "moment": "*",
-    "lodash": "*",
+    "lodash": "*"
   },
   "author": "ifeiteng",
   "license": "MIT",
-  "readmeFilename": "README.md",
+  "readmeFilename": "README.md"
 }
