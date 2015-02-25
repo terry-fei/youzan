@@ -1,7 +1,7 @@
 {
   "name": "node-kdt",
-  "version": "0.1.0",
-  "description": "nodejs sdk for koudaitong.com",
+  "version": "0.1.1",
+  "description": "nodejs sdk for koudaitong.com, now change to youzan.com",
   "scripts": {
     "test": "make test"
   },
@@ -12,7 +12,10 @@
   "keywords": [
     "koudaitong",
     "kdt",
-    "口袋通"
+    "口袋通",
+    "youzan",
+    "有赞",
+    "微商城"
   ],
   "dependencies": {
     "urllib": "*",
