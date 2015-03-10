@@ -1,6 +1,6 @@
 {
   "name": "node-kdt",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "nodejs sdk for koudaitong.com, now change to youzan.com",
   "scripts": {
     "test": "make test"
@@ -18,10 +18,9 @@
     "微商城"
   ],
   "dependencies": {
-    "urllib": "*",
-    "formstream": "*",
-    "moment": "*",
-    "lodash": "*"
+    "lodash": "^3.5.0",
+    "moment": "^2.9.0",
+    "request": "^2.53.0"
   },
   "author": "ifeiteng",
   "license": "MIT",
