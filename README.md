@@ -2,6 +2,7 @@ node-kdt
 ========
 
 nodejs sdk for koudaitong.com
+now change to youzan.com
 
 ## Usage
 ```js

@@ -1,13 +1,13 @@
 {
   "name": "node-kdt",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "nodejs sdk for koudaitong.com, now change to youzan.com",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ifeiteng/node-kdt.git"
+    "url": "https://github.com/feit/node-kdt.git"
   },
   "keywords": [
     "koudaitong",
@@ -22,7 +22,7 @@
     "moment": "^2.9.0",
     "request": "^2.53.0"
   },
-  "author": "ifeiteng",
+  "author": "feit",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
